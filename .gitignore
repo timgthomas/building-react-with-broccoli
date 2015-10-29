@@ -1,0 +1,9 @@
+# Compiled output
+/dist
+/tmp
+
+# Dependencies
+/node_modules
+
+# Miscellaneous
+npm-debug.log
